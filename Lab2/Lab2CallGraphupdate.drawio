@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T18:21:12.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bgQc1YLcPuwiMMA7T_PB" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T18:31:14.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8dS4UW6jdz3FpQK6KEkp" version="21.7.5" type="github">
   <diagram name="Page-1" id="aBUQQrTjA3KN-3YnoUeh">
-    <mxGraphModel dx="827" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="829" dy="1014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="otyGOs-9u9ngAnOYmoYT-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;PBG.checkCollision&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="460" width="320" height="80" as="geometry" />
+          <mxGeometry x="370" y="430" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="otyGOs-9u9ngAnOYmoYT-14" style="orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;rounded=0;" parent="1" source="otyGOs-9u9ngAnOYmoYT-11" target="otyGOs-9u9ngAnOYmoYT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="760" y="570" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="otyGOs-9u9ngAnOYmoYT-19" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Paddle.getX&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="830" width="170" height="60" as="geometry" />
+          <mxGeometry x="1230" y="770" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="otyGOs-9u9ngAnOYmoYT-28" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Ball.bounceOffPaddle&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="420" width="270" height="60" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="otyGOs-9u9ngAnOYmoYT-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;PBG.checkGameOver&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="830" width="320" height="70" as="geometry" />
+          <mxGeometry x="550" y="740" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
